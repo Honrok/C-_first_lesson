@@ -15,3 +15,7 @@ obj/
 # NuGet пакети
 *.nupkg
 packages/
+
+ConsoleApp1
+ConsoleApp2
+ConsoleApp3
