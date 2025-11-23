@@ -1,0 +1,17 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Резервні файли та кеш
+*.cache
+*.log
+
+# NuGet пакети
+*.nupkg
+packages/
