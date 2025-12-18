@@ -1,16 +1,4 @@
 <Solution>
-  <Project Path="ConsoleApp1/first_lesson.csproj" Id="f16b20b1-19c3-49b3-aeb6-666ef3d16b9e" />
-  <Project Path="ConsoleApp10/static_data_and_count_of_cars.csproj" Id="92a442e2-2904-4ee5-8060-6dacf09af121" />
-  <Project Path="ConsoleApp11/enum_struct.csproj" Id="c1efce4d-c3cc-4f82-bece-6135d281b7da" />
-  <Project Path="ConsoleApp12/delegates.csproj" Id="55a561f0-3b84-4e18-b8a9-223f661b0f80" />
-  <Project Path="ConsoleApp14/events.csproj" Id="5dd4568b-2384-4e9d-b826-75ca15292b70" />
-  <Project Path="ConsoleApp15/exeptions.csproj" Id="eb3a2508-1e3b-48fc-b4b7-5ad65f87eb57" />
-  <Project Path="ConsoleApp2/readAndWriteData.csproj" Id="b0f2dd18-faba-4371-964f-538a96d024c0" />
-  <Project Path="ConsoleApp3/parse_input_data.csproj" Id="4452ad8c-e9f1-4f63-af37-6eb91aca19e5" />
-  <Project Path="ConsoleApp4/simplest_menu.csproj" Id="f6c6d913-228f-4ab8-9454-92815e819e83" />
-  <Project Path="ConsoleApp5/arrays_list.csproj" Id="47d0b606-4358-4c32-9ae8-87a7143e7dfb" />
-  <Project Path="ConsoleApp6/calculator.csproj" Id="38b64c38-01b0-4652-b211-99e1d4cbc9d2" />
-  <Project Path="ConsoleApp7/methods.csproj" Id="8ea0ea2e-874d-491b-8744-f94acd5fcb4c" />
-  <Project Path="ConsoleApp8/inheritance.csproj" Id="7afdb175-38bf-4de8-8318-c7acb457c41a" />
-  <Project Path="ConsoleApp9/Objects.csproj" Id="07091205-20fb-4077-b10c-db288e705e89" />
+  <Project Path="ConsoleApp16/ConsoleApp16.csproj" />
+  <Project Path="ConsoleApp17/ConsoleApp17.csproj" Id="a9a6ff5a-765f-45bd-877b-973cfc78ec22" />
 </Solution>
